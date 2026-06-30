@@ -3,7 +3,7 @@
 `READ CAREFULLY`
 
 Veja a documentação do banco de dados:
-👉 [SQL README](template/backend/sql/READE.md)
+👉 [SQL README](template/backend/sql/README.md)
 ``
 
 ## Use Case
