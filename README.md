@@ -2,6 +2,10 @@
 
 `READ CAREFULLY`
 
+Veja a documentação do banco de dados:
+👉 [SQL README](template/backend/sql/READE.md)
+``
+
 ## Use Case
 **You are a developer on the DeveloperStore team. Now we need to implement the API prototypes.**
 
