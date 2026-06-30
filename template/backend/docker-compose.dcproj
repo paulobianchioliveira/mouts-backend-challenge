@@ -15,5 +15,11 @@
     </None>
     <None Include="docker-compose.yml" />
     <None Include=".dockerignore" />
+    <None Include="Program.cs" />
+    <None Include="Properties\launchSettings.json" />
+    <None Include="sql\01_create_tables.sql" />
+    <None Include="sql\02_seed_data.sql" />
+    <None Include="sql\03_drop_tables.sql" />
+    <None Include="sql\README.md" />
   </ItemGroup>
 </Project>
